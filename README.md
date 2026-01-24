@@ -233,10 +233,8 @@ A: 根据 `SAVE_DATA_OPTION` 配置：
 欢迎提交 Issue 和 Pull Request。
 
 ---
-
-## 作者
-
-程序员阿江-Relakkes <relakkes@gmail.com>
+借鉴项目：
+https://github.com/NanmiCoder/MediaCrawler
 
 ---
 
